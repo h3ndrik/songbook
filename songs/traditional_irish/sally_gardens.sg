@@ -1,0 +1,31 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Down by the Sally Gardens}
+  [by={Traditional}]
+
+
+  \lilypond{sally_gardens}
+
+  \begin{chorus}
+    It was \[C]down by the \[G]Sally \[F]Gar\[C]dens,
+    My \[F]love \[C]and \[G7]I did \[C]meet.
+    She \[C]passed the Sally \[F]Gar\[C]dens
+    with \[F]li\[C]ttle \[G7]snow-white \[C]feet.
+    She \[Am]bid \[Em]me \[F]take \[Am]love \[B7]ea\[Em]sy,
+    As the \[F]leaves \[Em]grow \[Dm7]on \[G7]the \[C]tree.
+    But \[C7]I was \[F]young \[Em]and \[D&]foo\[C]lish,
+    and \[F]with \[C]her did \[G7]not ag\[C]ree.
+  \end{chorus}
+
+  \begin{verse}
+    In a field down by the river,
+    my love and I did stand.
+    And on my leaning shoulder,
+    she laid her snow-white hand.
+    She bid me take life easy,
+    as the grass grows on the weirs,
+    But I was young and foolish,
+    and now am full of tears.
+  \end{verse}
+
+\endsong
