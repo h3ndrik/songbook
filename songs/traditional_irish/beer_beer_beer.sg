@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Beer Beer Beer (The Charlie Mops Song)}
+  [by={Traditional}]
+
+
+  \lilypond{beer}
+
+\endsong
