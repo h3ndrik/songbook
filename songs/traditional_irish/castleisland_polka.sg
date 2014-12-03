@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Castleisland Polka}[by=Traditional]
+
+\lilypond{castleisland_polka}
+
+\endsong
