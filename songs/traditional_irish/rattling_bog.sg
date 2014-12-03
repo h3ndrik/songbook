@@ -1,0 +1,62 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rattling Bog}
+  [by={Traditional}]
+
+
+  \lilypond{rattling_bog}
+
+  \begin{chorus}
+    \[G]Hey ho, the \[C]rattlin' bog,
+    The \[G]bog down in the \[D]valley-oh,
+    \[G]Hey ho, the \[C]rattlin' bog,
+    The \[G]bog down \[D]in the \[G]valley-oh.
+  \end{chorus}
+
+  \begin{verse}
+    Now \[G]in the bog there was a tree,
+    A rare tree, a \[D]rattlin' tree;
+    The \[G]tree in the bog,
+    And the \[G]bog down \[D]in the \[G]valley-oh.
+  \end{verse}
+
+  \begin{verse}
+    Now on that tree there was a branch\dots 
+    A rare branch, a rattlin' branch;
+    The branch on the tree,
+    And the tree in the bog,
+    And the bog down in the valley-oh.
+  \end{verse}
+
+  \begin{verse}
+    \dots  branch\dots 
+  \end{verse}
+  \begin{verse}
+    \dots twig\dots 
+  \end{verse}
+  \begin{verse}
+    \dots leaf\dots 
+  \end{verse}
+  \begin{verse}
+    \dots nest\dots 
+  \end{verse}
+  \begin{verse}
+    \dots egg\dots 
+  \end{verse}
+  \begin{verse}
+    \dots bird\dots 
+  \end{verse}
+  \begin{verse}
+    \dots wing\dots 
+  \end{verse}
+  \begin{verse}
+    \dots feather\dots 
+  \end{verse}
+  \begin{verse}
+    \dots flea\dots 
+  \end{verse}
+  \begin{verse}
+    \dots rash\dots 
+  \end{verse}
+
+\endsong
