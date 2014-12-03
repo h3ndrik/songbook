@@ -1,0 +1,75 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Finnegan's Wake}[by=Traditional]
+
+\lilypond{finnegans_wake}
+\newpage
+
+\begin{verse}
+Tim \[A]Finnegan lived in \[F#m]Walkin Street,
+a \[D]gentle Irishman \[E]mighty odd
+He \[A]had a brogue both \[F#m]rich and sweet,
+an' to \[D]rise in the world he \[E]carried a \[A]hod
+
+You \[A]see he'd a sort of a \[F#m]tipplers way
+but the \[A]love for the liquor poor \[F#m]Tim was born
+To \[A]help him on his \[F#m]way each day,
+he'd a \[D]drop of the craythur \[E]every \[A]morn
+\end{verse}
+
+\begin{chorus}
+\[A]Whack fol the dah now \[F#m] dance to yer partner
+a\[D]round the flure yer \[E]trotters shake
+\[A]Wasn't it the \[F#m]truth I told you?
+\[D]Lots of fun at \[E]Finnegan's \[A]Wake
+\end{chorus}
+                                               
+\begin{verse}
+One morning Tim got rather full,
+his head felt heavy which made him shake
+Fell from a ladder and he broke his skull,
+and they carried him home his corpse to wake
+
+Rolled him up in a nice clean sheet,
+and laid him out upon the bed
+A bottle of whiskey at his feet
+and a barrel of porter at his head
+\end{verse}
+
+\begin{verse}
+His friends assembled at the wake,
+and Mrs Finnegan called for lunch
+First she brought in tay and cake,
+then pipes, tobacco and whiskey punch
+
+Biddy O'Brien began to cry,
+"Such a nice clean corpse, did you ever see,
+Tim avourneen, why did you die?",
+"Will ye hould your gob?" said Paddy McGee
+\end{verse}
+
+\begin{verse}
+Then Maggie O'Connor took up the job,
+"Biddy" says she "you're wrong, I'm sure"
+Biddy gave her a belt in the gob
+and left her sprawling on the floor
+
+Then the war did soon engage,
+t'was woman to woman and man to man
+Shillelagh law was  all the rage
+and a row and a ruction soon began
+\end{verse}        
+        
+\begin{verse}       
+Mickey Maloney ducked his head
+when a bucket of whiskey flew at him
+It missed, and falling on the bed,
+the liquor scattered over Tim
+
+Bedad he revives, see how he rises,
+Timothy rising from the bed
+Saying "Whittle your whiskey around 
+like blazes, t'underin' Jaysus, do ye think I'm dead?"
+\end{verse}
+
+\endsong
