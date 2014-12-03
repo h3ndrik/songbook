@@ -1,0 +1,69 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Star of The County Down}[by=Traditional]
+
+\lilypond{star_of_the_county_down}
+
+\begin{verse}
+Near \[Em]Banbridge \[C]town, in the \[G]County \[D]Down,
+One \[Em]morning last Ju\[D]ly,
+Down a \[Em]boreen \[C]green came a \[G]sweet co\[D]lleen
+And she \[Em]smiled as she \[C]passed \[D]me \[Em]by;
+Oh, she \[G]looked so sweet from her \[D]two white feet,
+To the \[Em]sheen of her nut-brown \[D]hair,
+Sure the \[Em]coaxing \[C]elf, I'd to \[G]shake my\[D]self,
+To make \[Em]sure I was \[C]rea\[D]lly \[Em]there.
+\end{verse}
+ 
+\begin{chorus}
+From \[G]Bantry Bay up to \[D]Derry Quay,
+And from \[Em]Galway to Dublin \[D]town,
+No \[Em]maid I've \[C]seen like the \[G]sweet co\[D]lleen,
+That I \[Em]met in the \[C]Coun\[D]ty \[Em]Down.
+\end{chorus}
+
+\begin{verse}
+As she onward sped I shook my head
+And I gazed with a feeling quare
+‚And I said‘, says I to a passer-by.
+‚Who's the maid with the nut-brown hair?‘
+Oh, he smiled at me, and with pride says he,
+‚That's the gem of Ireland's crown.
+She's young Rosie McCann, from the banks of the Bann
+She's the star of the County Down.‘
+\end{verse}
+ 
+\begin{verse} 
+She'd a soft brown eye and a look so sly,
+And a smile like the rose in June,
+And you hung on each note from her lily-white throat,
+As she lilted an Irish tune.
+At the pattern dance you were held in trance
+As she tripped through a reel or jig,
+And when her eyes she'd roll, she'd coax upon my soul
+A spud from a hungry pig.
+\end{verse}
+
+\begin{verse}
+I've travelled a bit, but never was hit,
+Since my roving career began;
+But fair and square I surrendered there
+To the charm of young Rose McCann.
+With a heart to let and no tenant yet
+Did I meet within shawl or gown
+But in she went and I asked no rent
+From the star of the County Down.
+\end{verse}
+
+\begin{verse} 
+At the harvest fair I'll be surely there
+And I'll dress in my Sunday clothes,
+And I'll try sheep's eyes and deludhering lies
+On the heart of the nut-brown Rose.
+No pipe I'll smoke, no horse I'll yoke
+Though my plough with rust turns brown
+Till a smiling bride by my own fireside
+Sits the Star of the County Down.
+\end{verse}
+
+\endsong
