@@ -1,0 +1,61 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Eileen Og}
+  [by={Traditional}]
+
+  \capo{3}
+
+  \lilypond{pride_of_petravore}
+
+  \begin{verse}
+    \[Am]Eileen Og, and that the darlin's name is,
+    \[G]Through the barony her features they were famous
+    \[Am]If we loved her, who is there to blame us,
+    For \[Am]wasn't she the \[G]pride of Petra\[Am]vore ?
+    \[F]But her beauty \[C]made us all so shy,
+    \[Em]Not a man could \[Am]look her in the eye
+    \[F]Boys, O boys, sure \[C]that's reason \[Em]why
+    We're in \[Am]mourning for the \[G]pride of Petra\[Am]vore
+  \end{verse}
+
+  \begin{chorus}
+    \[F]Eileen Og, me \[C]heart is growing grey
+    \[Em]Ever since the day, you \[Am]wandered far away
+    \[F]Eileen Og, there's \[C]good fish in the \[Em]sea
+    But there's \[Am]none of them like the \[G]pride of Petra\[Am]vore
+  \end{chorus}
+
+  \begin{verse}
+    Friday at the fair of Ballintubber
+    Eileen met McGrath the cattle jobber
+    I'd like to set me mark upon the robber
+    For he stole away the Pride of Petravore
+    He never seemed to see the girl at all
+    Even when she ogled him underneath her shawl
+    Looking big and masterful when she was looking small
+    Most provoking for the Pride of Petravore
+  \end{verse}
+
+  \begin{verse}
+    So it went as it was in the beginning
+    Eileen Og was bent upon the winning
+    Big McGrath contentedly was grinning
+    Being courted by the Pride of Petravore
+    Says he, \og I know a girl who'd knock you into fits \fg
+    At that Eileen nearly lost her wits
+    The upshot of the ruction was that now the robber sits
+    With his arm around the Pride of Petravore
+  \end{verse}
+
+  \begin{verse}
+    Boys, O boys, with fate 'tis hard to grapple
+    Of my eye 'cause Eileen was the apple
+    And to see her walkin' to the chapel
+    Wid the hardest featured man in Petravore
+    Now me boys, this is all I have to say
+    When you do your courting make no display
+    If you want them to run after you just walk the other way
+    For they're mostly like the Pride of Petravore
+  \end{verse}
+
+\endsong
