@@ -1,0 +1,72 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Raggle Taggle Gipsie}
+  [by={Traditional}]
+
+
+  \lilypond{raggle_taggle_gypsy}
+
+  \begin{verse}
+    There were \[Am]three \[G]gyp\[Am]sies a \[Am]come \[G]to my \[Am]door
+    And downstairs ran this \[Em]lady, \[C]O!
+    \[Em]One sang \[Am]high and a\[Em]nother sang \[D]low
+    And the \[Am]other sang \[C]bonny, bonny, \[Am]Bis\[G]cay, \[Am]O!
+  \end{verse}
+
+  \begin{verse}
+    Then she pulled off her silk finished gown
+    And put on hose of leather, O!
+    The ragged, ragged, rags about our door
+    She's gone with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    It was late last night, when my lord came home
+    Enquiring for his a-lady, O!
+    The servants said, on every hand
+    She's gone with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    O saddle to me my milk-white steed
+    Go and fetch me my pony, O!
+    That I may ride and seek my bride
+    Who is gone with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    O he rode high and he rode low
+    He rode through woods and copses too
+    Until he came to an open field
+    And there he espied his a-lady, O!
+  \end{verse}
+
+  \begin{verse}
+    What makes you leave your house and land?
+    What makes you leave your money, O?
+    What makes you leave your new wedded lord?
+    To go with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    What care I for my house and my land?
+    What care I for my money, O?
+    What care I for my new wedded lord?
+    I'm off with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    Last night you slept on a goose-feather bed
+    With the sheet turned down so bravely, O!
+    And to-night you'll sleep in a cold open field
+    Along with the raggle taggle gypsies, O!
+  \end{verse}
+
+  \begin{verse}
+    What care I for a goose-feather bed?
+    With the sheet turned down so bravely, O!
+    For to-night I shall sleep in a cold open field
+    Along with the raggle taggle gypsies, O!
+  \end{verse}
+
+\endsong
