@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Drowsy Maggie}[by=Traditional]
+
+\lilypond{drowsy_maggie}
+
+\endsong
