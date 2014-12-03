@@ -1,0 +1,40 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Molly Mallone / In Dublin's Fair City}[by=Traditional]
+
+\lilypond{in_dublins_fair_city}
+
+\begin{verse}
+    In Dublin's fair city,
+    Where the girls are so pretty,
+    I first set my eyes on sweet Molly Malone,
+    As she wheeled her wheel-barrow,
+    Through streets broad and narrow,
+    Crying, "Cockles and mussels, alive, alive, oh!"
+\end{verse}
+
+\begin{chorus}
+    "Alive, alive, oh,
+    Alive, alive, oh",
+    Crying "Cockles and mussels, alive, alive, oh".
+\end{chorus}
+
+\begin{verse}
+    She was a fishmonger,
+    But sure 'twas no wonder,
+    For so were her father and mother before,
+    And they each wheeled their barrow,
+    Through streets broad and narrow,
+    Crying, "Cockles and mussels, alive, alive, oh!"
+\end{verse}
+
+\begin{verse}
+    She died of a fever,
+    And no one could save her,
+    And that was the end of sweet Molly Malone.
+    Now her ghost wheels her barrow,
+    Through streets broad and narrow,
+    Crying, "Cockles and mussels, alive, alive, oh!"
+\end{verse}
+
+\endsong 
