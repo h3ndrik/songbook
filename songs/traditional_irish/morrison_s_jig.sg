@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Morrison's Jig}[by=Traditional]
+
+\lilypond{morrison_jig}
+
+\endsong
