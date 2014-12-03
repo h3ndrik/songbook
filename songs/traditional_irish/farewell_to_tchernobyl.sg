@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Farewell to Tchernobyl}[by=Traditional]
+
+\lilypond{farewell_to_tchernobyl}
+
+\endsong
