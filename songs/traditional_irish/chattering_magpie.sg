@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Chattering Magpie}[by=Traditional]
+
+\lilypond{chattering_magpie}
+
+\endsong
