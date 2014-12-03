@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Whiskey In The Jar}[by=Traditional]
+
+\lilypond{whiskey_in_the_jar}
+
+\begin{verse}
+As \[G]I was a goin' over the \[Em]far famed Kerry mountains,
+I \[C]met with Captain Farrell and his \[G]money he was \[D]counting.
+I \[G]first produced me pistol and I \[Em]then produced me rapier,
+Saying \[C]"Stand and deliver" for I \[G]am a bold deceiver.
+\end{verse}
+
+\begin{chorus}
+Musha \[D]ring dumma do damma dah
+\[G] Whack fol' the daddy -o,
+\[C] Whack fol' the daddy -o,
+There's \[G]whiskey \[D]in the \[G]jar.
+\end{chorus}
+
+\begin{verse}
+I counted out his money and it made a pretty penny
+I put it in me pocket and I took it home to Jenny.
+She sighed and she swore that she never would deceive me,
+But the devil take the women for they never can be easy.
+\end{verse}
+
+\begin{verse}
+I went into my chamber all for to take a slumber
+I dreamt of gold and jewels and for sure 't was no wonder
+But Jenny drew my charges and she filled them up with water
+And sent for Captain Farrell to be ready for the slaughter.
+\end{verse}
+
+\begin{verse}
+'twas early in the morning just before I rose to travel
+Up comes a band of footmen and likewise Captain Farrell
+I first produced me pistol for she stole away me rapier
+But I couldn't shoot the water so a prisoner I was taken.
+\end{verse}
+
+\begin{verse}
+If anyone can aid me 'tis my brother in the army
+If I can find his station down in Cork or in Killarney
+And if he'll come and join me, we'll go rovin' near Killkenny
+And sure he'll treat me better than my only sporting Jenny.
+\end{verse}
+
+\endsong
