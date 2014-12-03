@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Whiskey in the Jar (2)}
+  [by={Traditional}]
+
+
+  \lilypond{whiskey_in_the_jar_withlyrics}
+
+\endsong
