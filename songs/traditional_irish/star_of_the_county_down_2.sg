@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Star of the County Down (2)}
+  [by={Traditional}]
+
+
+  \lilypond{star_of_the_county_down_withlyrics}
+
+\endsong
