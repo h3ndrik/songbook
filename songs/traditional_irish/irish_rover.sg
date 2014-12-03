@@ -1,0 +1,79 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Irish Rover}[by=Traditional]
+
+\lilypond{irish_rover}
+
+\begin{verse}
+On the \[G]Fourth of July, \[C]1806
+We set \[G]sail from the sweet Cobh of \[D]Cork
+We were \[G]sailing away with a \[C]cargo of bricks
+For the \[G]Grand City \[D]Hall in New \[G]York
+
+'Twas a \[G]wonderful craft, She was \[D]rigged 'fore and aft'
+And \[G]oh, how the wild wind \[D]drove her
+She stood \[G]several blasts, She had \[C]twenty seven masts
+And they \[G]called her The \[D]Irish \[G]Rover
+\end{verse}
+
+\begin{verse}
+We had one million bags of the best Sligo rags
+We had two million barrels of stones
+We had three million sides of old blind horses hides'
+We had four million barrels of bones
+
+We had five million hogs, six million dogs
+Seven million barrels of porter
+We had eight million barrels of old nanny goate tails
+In the hold of the Irish Rover
+\end{verse}
+
+\begin{verse}
+There was awl Mickey Coote who played hard on his flute
+And the ladies lined up for a set
+He would tootle with skill for each sparkling quadrille
+Though the dancers were fluther'd and bet
+
+With his smart witty talk, he was cock of the walk
+As he rolled the dames under and over
+They all knew at a glance when he took up his stance
+That he sailed in The Irish Rover
+\end{verse}
+
+\begin{verse}
+There was Barney McGee from the banks of the Lee
+There was Hogan from County Tyrone
+There was Johnny McGurk who was scared stiff of work
+And a man from Westmeath called Malone
+
+There was Slugger O'Toole, who was drunk as a rule
+And Fighting Bill Tracy from Dover
+And your man, Mick McCann, from the banks of the Bann
+Was the skipper of the Irish Rover
+\end{verse}
+
+\begin{verse}
+For a sailor its' always a bother in life
+It's so lonesome by night and by day
+That he longs for the shore and a charming young whore
+Who will melt all his troubles away
+
+Oh, the noise and the rout swillin' poiteen and stout
+For him soon the torment's over
+Of the love of a maid he is never afraid
+An old salt from the Irish Rover
+\end{verse}
+
+\begin{verse}
+We had sailed seven years when the measles broke out
+And the ship lost its way in the fog
+And that whale of a crew was reduced down to two
+Just myself and the Captain's old dog
+
+Then the ship struck a rock. Oh Lord! what a shock
+The bulkhead was turned right over
+Turned nine times around and the poor old dog was drowned
+I'm the last of The Irish Rover
+\end{verse}
+
+\endsong
