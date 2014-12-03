@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Kerry}[by=Traditional]
+
+\lilypond{kerry}
+
+\endsong
