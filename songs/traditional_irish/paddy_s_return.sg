@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Paddy's Return}[by=Traditional]
+
+\lilypond{paddy_return}
+
+\endsong
