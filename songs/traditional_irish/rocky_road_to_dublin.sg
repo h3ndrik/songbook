@@ -1,0 +1,80 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rocky Road To Dublin}
+  [by={Traditional}]
+
+
+  \lilypond{rocky_road_to_dublin}
+
+  \begin{verse}
+    In the \[Am]merry \[G]month of \[Am]May,
+    \[Am]From my home I started,
+    \[Am]Left the \[G]girls of \[Am]Tuam,
+    \[G]Nearly broken hearted,
+    Sa\[Am]luted \[G]father \[Am]dear,
+    \[Am]Kissed my darlin' mother,
+    \[Am]Drank a \[G]pint of \[Am]beer,
+    My \[G]grief and tears to smother,
+    Then \[Am]off to reap the \[G]corn,
+    And \[Am]leave where I was \[G]born,
+    I \[Am]cut a stout black\[G]thorn,
+    To \[G]banish ghost and goblin,
+    In a \[Am]brand new pair of \[G]brogues,
+    I \[Am]rattled o'er the \[G]bogs,
+    And \[Am]frightened all the \[G]dogs,
+    On the \[G]rocky road to Dublin.
+  \end{verse}
+
+  \begin{chorus}
+    \[Em]One, two, \[G]three, four \[Am]five,
+    \[Am]Hunt the hare and turn her
+    Down the rocky road
+    And \[G]all the ways to Dublin,
+    \[Em]Whack-fol-\[G]lol-de-\[Am]ra.
+  \end{chorus}
+
+  \begin{verse}
+    In Mullingar that night, I rested limbs so weary,
+    Started by daylight, Next mornin' light and airy,
+    Took a drop of the pure, To keep my heart from sinkin',
+    That's an Irishman's cure, Whene'er he's on for drinking.
+    To see the lasses smile, Laughing all the while,
+    At my curious style, 'Twould set your heart a-bubblin'.
+    They ax'd if I was hired, The wages I required,
+    Till I was almost tired, Of the rocky road to Dublin.
+  \end{verse}
+
+  \begin{verse}
+    In Dublin next arrived, I thought it such a pity,
+    To be so soon deprived, A view of that fine city.
+    Then I took a stroll, All among the quality,
+    My bundle it was stole, In a neat locality;
+    Something crossed my mind, Then I looked behind;
+    No bundle could I find, Upon my stick a wobblin'.
+    Enquirin' for the rogue, They said my Connacht brogue,
+    Wasn't much in vogue, On the rocky road to Dublin.
+  \end{verse}
+
+  \begin{verse}
+    From there I got away, My spirits never failin'
+    Landed on the quay As the ship was sailin';
+    Captain at me roared, Said that no room had he,
+    When I jumped aboard, A cabin found for Paddy,
+    Down among the pigs I played some funny rigs,
+    Danced some hearty jigs, The water round me bubblin',
+    When off Holyhead, I wished myself was dead,
+    Or better far instead, On the rocky road to Dublin.
+  \end{verse}
+
+  \begin{verse}
+    The boys of Liverpool, When we safely landed,
+    Called myself a fool; I could no longer stand it;
+    Blood began to boil, Temper I was losin',
+    Poor ould Erin's isle They began abusin',
+    \og Hurrah my soul \fg , sez I, My shillelagh I let fly;
+    Some Galway boys were by, Saw I was a hobble in,
+    Then with a loud hurray, They joined in the affray.
+    We quickly cleared the way, For the rocky road to Dublin.
+  \end{verse}
+
+\endsong
