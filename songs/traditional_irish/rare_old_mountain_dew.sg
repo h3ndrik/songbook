@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rare Old Mountain Dew}
+  [by={Traditional}]
+
+
+  \lilypond{rare_old_mountain_dew}
+
+  \begin{verse}
+    Let the \[G]grasses grow, and the \[C]waters flow,
+    in a \[G]free and easy \[D7]way,
+    But \[G]give me enough of the \[C]rare old stuff
+    That's \[G]made near \[D7]Galway \[G]Bay.
+    Oh \[G]peelers all, from \[G]Donegal,
+    \[G]Galway and Etrim \[Em]too \[D7]
+    We'll \[G]give them a slip and we'll \[C]take a sip
+    Of the \[G]rare old \[D7]Mountain \[G]Dew
+  \end{verse}
+
+  \begin{chorus}
+    thiddle \[G]i ay di diddle dum thiddle \[C]i ay di diddle dum
+    thiddle \[G]i ay di diddle dum rum a dum \[D7]dey
+    thiddle \[G]i ay di diddle dum thiddle \[C]i ay di diddle dum
+    thiddle \[G]i ay di diddle \[D7]dum rum a dum \[G]dey
+  \end{chorus}
+
+  \begin{verse}
+    There's a neat little still at the foot of the hill,
+    Where the smoke curls up to the sky.
+    By the smoke and the smell you can plainly tell,
+    That there's whiskey brewing nearby.
+    For it fills the air with odor rare,
+    And betwixt both me and you,
+    When home we roll, we can drink a bowl,
+    Or a bucketful of Mountain Dew.
+  \end{verse}
+
+  \begin{verse}
+    Now learned men as use the pen
+    Who've wrote your praises high,
+    This sweet 'pocheen' (potion) from Ireland's green
+    Distilled from wheat and rye.
+    Throw away your pills - it'll cure all ills
+    Of Pagan or Christian or Jew.
+    Take off your coat and free your throat
+    With the rare old Mountain Dew.
+  \end{verse}
+
+\endsong
