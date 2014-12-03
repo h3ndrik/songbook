@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Drunken Lullabies}
+  [by={Flogging Molly}]
+
+
+  \lilypond{drunken_lullabies}
+
+\endsong
