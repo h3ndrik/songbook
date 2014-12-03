@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Danny Boy}
+  [by={Traditional}]
+
+
+  \lilypond{danny_boy}
+
+\endsong
