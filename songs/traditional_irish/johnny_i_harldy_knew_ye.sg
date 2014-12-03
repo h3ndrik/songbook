@@ -1,0 +1,56 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Johnny, I Harldy Knew Ye !}[by=Traditional]
+
+\lilypond{johnny_i_hardly_knew_ye}
+
+\begin{verse}
+While goin' the road to sweet Athy, Hurroo! Hurroo !
+While goin' the road to sweet Athy, Hurroo! Hurroo !
+While goin' the road to sweet Athy,
+A stick in the hand and a drop in the eye
+A doleful damsel I heard cry,
+Johnny I hardly knew ye!
+\end{verse}
+
+\begin{chorus}
+With your drums and guns and drums and guns, Hurroo ! Hurroo ! (bis)
+With your drums and guns and drums and guns,
+The enemy nearly slew ye
+Oh me darling dear, Ye look so queer
+Johnny I hardly knew ye
+\end{chorus}
+
+\begin{verse}
+Where are the eyes that look so mild, Hurroo ! Hurroo ! (bis)
+Where are the eyes that look so mild
+When my poor heart you so beguiled
+Why did ye skedaddle from me and the child
+Oh Johnny, I hardly knew ye.
+\end{verse}
+
+\begin{verse}
+Where are the legs with which ye run, Hurroo ! Hurroo ! (bis)
+Where are the legs with which ye run
+When ye went for to carry a gun
+Indeed your dancing days are done
+Oh Johnny, I hardly knew ye.
+\end{verse}
+
+\begin{verse}
+Ye haven't an arm, Ye haven't a leg, Hurroo ! Hurroo ! (bis)
+Ye haven't an arm, ye haven't a leg
+Ye're an armless, boneless, chickenless egg
+Ye'll have to be put in a bowl to beg
+Oh Johnny I hardly knew ye.
+\end{verse}
+
+\begin{verse}
+I'm happy for to see ye home, Hurroo ! Hurroo ! (bis)
+I'm happy for to see ye home
+All from the island of Sulloon
+So low in flesh, so high in bone
+Oh Johnny I hardly knew ye.
+\end{verse}
+
+\endsong
