@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Kesh Jig}[by=Traditional]
+
+\lilypond{kesh_jig}
+
+\endsong
