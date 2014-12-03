@@ -1,0 +1,9 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Molly Malone (2)}
+  [by={Traditional}]
+
+
+  \lilypond{molly_malone}
+
+\endsong
