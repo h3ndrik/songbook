@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Britches Full Of Stitches}[by=Traditional]
+
+\lilypond{britches_full_of_stitches}
+
+\endsong
